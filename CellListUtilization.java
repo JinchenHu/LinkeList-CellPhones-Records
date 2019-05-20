@@ -1,17 +1,4 @@
-/**
-* 
-* Jinchen Hu ID#40080398
-* <p>COMP 249</p>
-* <p>Assignment #4 Part_2</p>
-* <p>Due 11:59 PM - Monday, April 8, 2019</p>
-*
-*/
-//-------------------------------
-//Assignment #4 Part_2
-//Question: write a program using linked lists,
-//that manipulates a set of records of cell phone
-//and performs some operation on these records
-//Written by: Jinchen Hu ID#40080398
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
